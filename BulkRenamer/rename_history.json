@@ -1,0 +1,938 @@
+[
+    {
+        "session": "2026-02-16T03:22:43.957946",
+        "folder": "C:\\Users\\Admin\\Desktop\\test",
+        "files": [
+            {
+                "old": "test.py",
+                "new": "2026-01-22_001.py"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-16T03:22:48.238921",
+        "folder": "C:\\Users\\Admin\\Desktop\\test",
+        "files": [
+            {
+                "old": "2026-01-22_001.py",
+                "new": "test_001.py"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-16T03:23:13.390359",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_001.txt",
+                "new": "Name_NFN09_001.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_002.csv",
+                "new": "Name_NFN09_002.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_003.csv",
+                "new": "Name_NFN09_003.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_004.csv",
+                "new": "Name_NFN09_004.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_005.jpg",
+                "new": "Name_NFN09_005.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_006.json",
+                "new": "Name_NFN09_006.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_007.txt",
+                "new": "Name_NFN09_007.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_008.png",
+                "new": "Name_NFN09_008.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_009.png",
+                "new": "Name_NFN09_009.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_010.pdf",
+                "new": "Name_NFN09_010.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_011.pdf",
+                "new": "Name_NFN09_011.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_012.json",
+                "new": "Name_NFN09_012.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_013.jpg",
+                "new": "Name_NFN09_013.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_014.txt",
+                "new": "Name_NFN09_014.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_015.docx",
+                "new": "Name_NFN09_015.docx"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_016.docx",
+                "new": "Name_NFN09_016.docx"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_017.pdf",
+                "new": "Name_NFN09_017.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_018.png",
+                "new": "Name_NFN09_018.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_019.jpg",
+                "new": "Name_NFN09_019.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_020.csv",
+                "new": "Name_NFN09_020.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_021.png",
+                "new": "Name_NFN09_021.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_022.txt",
+                "new": "Name_NFN09_022.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_023.png",
+                "new": "Name_NFN09_023.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_024.png",
+                "new": "Name_NFN09_024.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_025.jpg",
+                "new": "Name_NFN09_025.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_026.wav",
+                "new": "Name_NFN09_026.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_027.mp3",
+                "new": "Name_NFN09_027.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_028.mp3",
+                "new": "Name_NFN09_028.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_029.wav",
+                "new": "Name_NFN09_029.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_030.wav",
+                "new": "Name_NFN09_030.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_031.mp3",
+                "new": "Name_NFN09_031.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_032.wav",
+                "new": "Name_NFN09_032.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_033.wav",
+                "new": "Name_NFN09_033.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_034.mp3",
+                "new": "Name_NFN09_034.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_035.mp3",
+                "new": "Name_NFN09_035.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_036.wav",
+                "new": "Name_NFN09_036.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_037.wav",
+                "new": "Name_NFN09_037.wav"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_038.mp3",
+                "new": "Name_NFN09_038.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_039.mp3",
+                "new": "Name_NFN09_039.mp3"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_040.json",
+                "new": "Name_NFN09_040.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_041.json",
+                "new": "Name_NFN09_041.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_042.jpg",
+                "new": "Name_NFN09_042.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_043.pdf",
+                "new": "Name_NFN09_043.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_044.jpg",
+                "new": "Name_NFN09_044.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_045.png",
+                "new": "Name_NFN09_045.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_046.jpg",
+                "new": "Name_NFN09_046.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_047.csv",
+                "new": "Name_NFN09_047.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_048.docx",
+                "new": "Name_NFN09_048.docx"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_049.csv",
+                "new": "Name_NFN09_049.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_050.pdf",
+                "new": "Name_NFN09_050.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_051.json",
+                "new": "Name_NFN09_051.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_052.jpg",
+                "new": "Name_NFN09_052.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_053.jpg",
+                "new": "Name_NFN09_053.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_054.png",
+                "new": "Name_NFN09_054.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_055.docx",
+                "new": "Name_NFN09_055.docx"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_056.pdf",
+                "new": "Name_NFN09_056.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_057.png",
+                "new": "Name_NFN09_057.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_058.pdf",
+                "new": "Name_NFN09_058.pdf"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_059.docx",
+                "new": "Name_NFN09_059.docx"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_060.png",
+                "new": "Name_NFN09_060.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_061.csv",
+                "new": "Name_NFN09_061.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_062.json",
+                "new": "Name_NFN09_062.json"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_063.csv",
+                "new": "Name_NFN09_063.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_064.txt",
+                "new": "Name_NFN09_064.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_065.png",
+                "new": "Name_NFN09_065.png"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_066.csv",
+                "new": "Name_NFN09_066.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_067.txt",
+                "new": "Name_NFN09_067.txt"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_068.csv",
+                "new": "Name_NFN09_068.csv"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_069.jpg",
+                "new": "Name_NFN09_069.jpg"
+            },
+            {
+                "old": "\u0645\u0647\u062e\u062a\u0647\u062a\u0646_070.png",
+                "new": "Name_NFN09_070.png"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-16T03:23:32.073000",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "Name_NFN09_026.wav",
+                "new": "Name_NFN09_001.wav"
+            },
+            {
+                "old": "Name_NFN09_027.mp3",
+                "new": "Name_NFN09_002.mp3"
+            },
+            {
+                "old": "Name_NFN09_028.mp3",
+                "new": "Name_NFN09_003.mp3"
+            },
+            {
+                "old": "Name_NFN09_029.wav",
+                "new": "Name_NFN09_004.wav"
+            },
+            {
+                "old": "Name_NFN09_030.wav",
+                "new": "Name_NFN09_005.wav"
+            },
+            {
+                "old": "Name_NFN09_031.mp3",
+                "new": "Name_NFN09_006.mp3"
+            },
+            {
+                "old": "Name_NFN09_032.wav",
+                "new": "Name_NFN09_007.wav"
+            },
+            {
+                "old": "Name_NFN09_033.wav",
+                "new": "Name_NFN09_008.wav"
+            },
+            {
+                "old": "Name_NFN09_034.mp3",
+                "new": "Name_NFN09_009.mp3"
+            },
+            {
+                "old": "Name_NFN09_035.mp3",
+                "new": "Name_NFN09_010.mp3"
+            },
+            {
+                "old": "Name_NFN09_036.wav",
+                "new": "Name_NFN09_011.wav"
+            },
+            {
+                "old": "Name_NFN09_037.wav",
+                "new": "Name_NFN09_012.wav"
+            },
+            {
+                "old": "Name_NFN09_038.mp3",
+                "new": "Name_NFN09_013.mp3"
+            },
+            {
+                "old": "Name_NFN09_039.mp3",
+                "new": "Name_NFN09_014.mp3"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-16T03:26:10.821648",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "Name_NFN09_001.txt",
+                "new": "AUD_IOB6R_001.txt"
+            },
+            {
+                "old": "Name_NFN09_001.wav",
+                "new": "AUD_IOB6R_002.wav"
+            },
+            {
+                "old": "Name_NFN09_002.csv",
+                "new": "AUD_IOB6R_003.csv"
+            },
+            {
+                "old": "Name_NFN09_002.mp3",
+                "new": "AUD_IOB6R_004.mp3"
+            },
+            {
+                "old": "Name_NFN09_003.csv",
+                "new": "AUD_IOB6R_005.csv"
+            },
+            {
+                "old": "Name_NFN09_003.mp3",
+                "new": "AUD_IOB6R_006.mp3"
+            },
+            {
+                "old": "Name_NFN09_004.csv",
+                "new": "AUD_IOB6R_007.csv"
+            },
+            {
+                "old": "Name_NFN09_004.wav",
+                "new": "AUD_IOB6R_008.wav"
+            },
+            {
+                "old": "Name_NFN09_005.jpg",
+                "new": "AUD_IOB6R_009.jpg"
+            },
+            {
+                "old": "Name_NFN09_005.wav",
+                "new": "AUD_IOB6R_010.wav"
+            },
+            {
+                "old": "Name_NFN09_006.json",
+                "new": "AUD_IOB6R_011.json"
+            },
+            {
+                "old": "Name_NFN09_006.mp3",
+                "new": "AUD_IOB6R_012.mp3"
+            },
+            {
+                "old": "Name_NFN09_007.txt",
+                "new": "AUD_IOB6R_013.txt"
+            },
+            {
+                "old": "Name_NFN09_007.wav",
+                "new": "AUD_IOB6R_014.wav"
+            },
+            {
+                "old": "Name_NFN09_008.png",
+                "new": "AUD_IOB6R_015.png"
+            },
+            {
+                "old": "Name_NFN09_008.wav",
+                "new": "AUD_IOB6R_016.wav"
+            },
+            {
+                "old": "Name_NFN09_009.mp3",
+                "new": "AUD_IOB6R_017.mp3"
+            },
+            {
+                "old": "Name_NFN09_009.png",
+                "new": "AUD_IOB6R_018.png"
+            },
+            {
+                "old": "Name_NFN09_010.mp3",
+                "new": "AUD_IOB6R_019.mp3"
+            },
+            {
+                "old": "Name_NFN09_010.pdf",
+                "new": "AUD_IOB6R_020.pdf"
+            },
+            {
+                "old": "Name_NFN09_011.pdf",
+                "new": "AUD_IOB6R_021.pdf"
+            },
+            {
+                "old": "Name_NFN09_011.wav",
+                "new": "AUD_IOB6R_022.wav"
+            },
+            {
+                "old": "Name_NFN09_012.json",
+                "new": "AUD_IOB6R_023.json"
+            },
+            {
+                "old": "Name_NFN09_012.wav",
+                "new": "AUD_IOB6R_024.wav"
+            },
+            {
+                "old": "Name_NFN09_013.jpg",
+                "new": "AUD_IOB6R_025.jpg"
+            },
+            {
+                "old": "Name_NFN09_013.mp3",
+                "new": "AUD_IOB6R_026.mp3"
+            },
+            {
+                "old": "Name_NFN09_014.mp3",
+                "new": "AUD_IOB6R_027.mp3"
+            },
+            {
+                "old": "Name_NFN09_014.txt",
+                "new": "AUD_IOB6R_028.txt"
+            },
+            {
+                "old": "Name_NFN09_015.docx",
+                "new": "AUD_IOB6R_029.docx"
+            },
+            {
+                "old": "Name_NFN09_016.docx",
+                "new": "AUD_IOB6R_030.docx"
+            },
+            {
+                "old": "Name_NFN09_017.pdf",
+                "new": "AUD_IOB6R_031.pdf"
+            },
+            {
+                "old": "Name_NFN09_018.png",
+                "new": "AUD_IOB6R_032.png"
+            },
+            {
+                "old": "Name_NFN09_019.jpg",
+                "new": "AUD_IOB6R_033.jpg"
+            },
+            {
+                "old": "Name_NFN09_020.csv",
+                "new": "AUD_IOB6R_034.csv"
+            },
+            {
+                "old": "Name_NFN09_021.png",
+                "new": "AUD_IOB6R_035.png"
+            },
+            {
+                "old": "Name_NFN09_022.txt",
+                "new": "AUD_IOB6R_036.txt"
+            },
+            {
+                "old": "Name_NFN09_023.png",
+                "new": "AUD_IOB6R_037.png"
+            },
+            {
+                "old": "Name_NFN09_024.png",
+                "new": "AUD_IOB6R_038.png"
+            },
+            {
+                "old": "Name_NFN09_025.jpg",
+                "new": "AUD_IOB6R_039.jpg"
+            },
+            {
+                "old": "Name_NFN09_040.json",
+                "new": "AUD_IOB6R_040.json"
+            },
+            {
+                "old": "Name_NFN09_041.json",
+                "new": "AUD_IOB6R_041.json"
+            },
+            {
+                "old": "Name_NFN09_042.jpg",
+                "new": "AUD_IOB6R_042.jpg"
+            },
+            {
+                "old": "Name_NFN09_043.pdf",
+                "new": "AUD_IOB6R_043.pdf"
+            },
+            {
+                "old": "Name_NFN09_044.jpg",
+                "new": "AUD_IOB6R_044.jpg"
+            },
+            {
+                "old": "Name_NFN09_045.png",
+                "new": "AUD_IOB6R_045.png"
+            },
+            {
+                "old": "Name_NFN09_046.jpg",
+                "new": "AUD_IOB6R_046.jpg"
+            },
+            {
+                "old": "Name_NFN09_047.csv",
+                "new": "AUD_IOB6R_047.csv"
+            },
+            {
+                "old": "Name_NFN09_048.docx",
+                "new": "AUD_IOB6R_048.docx"
+            },
+            {
+                "old": "Name_NFN09_049.csv",
+                "new": "AUD_IOB6R_049.csv"
+            },
+            {
+                "old": "Name_NFN09_050.pdf",
+                "new": "AUD_IOB6R_050.pdf"
+            },
+            {
+                "old": "Name_NFN09_051.json",
+                "new": "AUD_IOB6R_051.json"
+            },
+            {
+                "old": "Name_NFN09_052.jpg",
+                "new": "AUD_IOB6R_052.jpg"
+            },
+            {
+                "old": "Name_NFN09_053.jpg",
+                "new": "AUD_IOB6R_053.jpg"
+            },
+            {
+                "old": "Name_NFN09_054.png",
+                "new": "AUD_IOB6R_054.png"
+            },
+            {
+                "old": "Name_NFN09_055.docx",
+                "new": "AUD_IOB6R_055.docx"
+            },
+            {
+                "old": "Name_NFN09_056.pdf",
+                "new": "AUD_IOB6R_056.pdf"
+            },
+            {
+                "old": "Name_NFN09_057.png",
+                "new": "AUD_IOB6R_057.png"
+            },
+            {
+                "old": "Name_NFN09_058.pdf",
+                "new": "AUD_IOB6R_058.pdf"
+            },
+            {
+                "old": "Name_NFN09_059.docx",
+                "new": "AUD_IOB6R_059.docx"
+            },
+            {
+                "old": "Name_NFN09_060.png",
+                "new": "AUD_IOB6R_060.png"
+            },
+            {
+                "old": "Name_NFN09_061.csv",
+                "new": "AUD_IOB6R_061.csv"
+            },
+            {
+                "old": "Name_NFN09_062.json",
+                "new": "AUD_IOB6R_062.json"
+            },
+            {
+                "old": "Name_NFN09_063.csv",
+                "new": "AUD_IOB6R_063.csv"
+            },
+            {
+                "old": "Name_NFN09_064.txt",
+                "new": "AUD_IOB6R_064.txt"
+            },
+            {
+                "old": "Name_NFN09_065.png",
+                "new": "AUD_IOB6R_065.png"
+            },
+            {
+                "old": "Name_NFN09_066.csv",
+                "new": "AUD_IOB6R_066.csv"
+            },
+            {
+                "old": "Name_NFN09_067.txt",
+                "new": "AUD_IOB6R_067.txt"
+            },
+            {
+                "old": "Name_NFN09_068.csv",
+                "new": "AUD_IOB6R_068.csv"
+            },
+            {
+                "old": "Name_NFN09_069.jpg",
+                "new": "AUD_IOB6R_069.jpg"
+            },
+            {
+                "old": "Name_NFN09_070.png",
+                "new": "AUD_IOB6R_070.png"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-16T22:48:30.773482",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "AUD_IOB6R_009.jpg",
+                "new": "IMG_001.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_015.png",
+                "new": "IMG_002.png"
+            },
+            {
+                "old": "AUD_IOB6R_018.png",
+                "new": "IMG_003.png"
+            },
+            {
+                "old": "AUD_IOB6R_025.jpg",
+                "new": "IMG_004.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_032.png",
+                "new": "IMG_005.png"
+            },
+            {
+                "old": "AUD_IOB6R_033.jpg",
+                "new": "IMG_006.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_035.png",
+                "new": "IMG_007.png"
+            },
+            {
+                "old": "AUD_IOB6R_037.png",
+                "new": "IMG_008.png"
+            },
+            {
+                "old": "AUD_IOB6R_038.png",
+                "new": "IMG_009.png"
+            },
+            {
+                "old": "AUD_IOB6R_039.jpg",
+                "new": "IMG_010.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_042.jpg",
+                "new": "IMG_011.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_044.jpg",
+                "new": "IMG_012.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_045.png",
+                "new": "IMG_013.png"
+            },
+            {
+                "old": "AUD_IOB6R_046.jpg",
+                "new": "IMG_014.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_052.jpg",
+                "new": "IMG_015.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_053.jpg",
+                "new": "IMG_016.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_054.png",
+                "new": "IMG_017.png"
+            },
+            {
+                "old": "AUD_IOB6R_057.png",
+                "new": "IMG_018.png"
+            },
+            {
+                "old": "AUD_IOB6R_060.png",
+                "new": "IMG_019.png"
+            },
+            {
+                "old": "AUD_IOB6R_065.png",
+                "new": "IMG_020.png"
+            },
+            {
+                "old": "AUD_IOB6R_069.jpg",
+                "new": "IMG_021.jpg"
+            },
+            {
+                "old": "AUD_IOB6R_070.png",
+                "new": "IMG_022.png"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-17T21:29:24.789862",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "IMG_001.jpg",
+                "new": "random_files_001.jpg"
+            },
+            {
+                "old": "IMG_002.png",
+                "new": "random_files_002.png"
+            },
+            {
+                "old": "IMG_003.png",
+                "new": "random_files_003.png"
+            },
+            {
+                "old": "IMG_004.jpg",
+                "new": "random_files_004.jpg"
+            },
+            {
+                "old": "IMG_005.png",
+                "new": "random_files_005.png"
+            },
+            {
+                "old": "IMG_006.jpg",
+                "new": "random_files_006.jpg"
+            },
+            {
+                "old": "IMG_007.png",
+                "new": "random_files_007.png"
+            },
+            {
+                "old": "IMG_008.png",
+                "new": "random_files_008.png"
+            },
+            {
+                "old": "IMG_009.png",
+                "new": "random_files_009.png"
+            },
+            {
+                "old": "IMG_010.jpg",
+                "new": "random_files_010.jpg"
+            },
+            {
+                "old": "IMG_011.jpg",
+                "new": "random_files_011.jpg"
+            },
+            {
+                "old": "IMG_012.jpg",
+                "new": "random_files_012.jpg"
+            },
+            {
+                "old": "IMG_013.png",
+                "new": "random_files_013.png"
+            },
+            {
+                "old": "IMG_014.jpg",
+                "new": "random_files_014.jpg"
+            },
+            {
+                "old": "IMG_015.jpg",
+                "new": "random_files_015.jpg"
+            },
+            {
+                "old": "IMG_016.jpg",
+                "new": "random_files_016.jpg"
+            },
+            {
+                "old": "IMG_017.png",
+                "new": "random_files_017.png"
+            },
+            {
+                "old": "IMG_018.png",
+                "new": "random_files_018.png"
+            },
+            {
+                "old": "IMG_019.png",
+                "new": "random_files_019.png"
+            },
+            {
+                "old": "IMG_020.png",
+                "new": "random_files_020.png"
+            },
+            {
+                "old": "IMG_021.jpg",
+                "new": "random_files_021.jpg"
+            },
+            {
+                "old": "IMG_022.png",
+                "new": "random_files_022.png"
+            }
+        ]
+    },
+    {
+        "session": "2026-02-17T21:29:39.891473",
+        "folder": "C:\\Users\\Admin\\Desktop\\test\\random_files",
+        "files": [
+            {
+                "old": "random_files_001.jpg",
+                "new": "2026-01-22_001.jpg"
+            },
+            {
+                "old": "random_files_002.png",
+                "new": "2026-01-22_002.png"
+            },
+            {
+                "old": "random_files_003.png",
+                "new": "2026-01-22_003.png"
+            },
+            {
+                "old": "random_files_004.jpg",
+                "new": "2026-01-22_004.jpg"
+            },
+            {
+                "old": "random_files_005.png",
+                "new": "2026-01-22_005.png"
+            },
+            {
+                "old": "random_files_006.jpg",
+                "new": "2026-01-22_006.jpg"
+            },
+            {
+                "old": "random_files_007.png",
+                "new": "2026-01-22_007.png"
+            },
+            {
+                "old": "random_files_008.png",
+                "new": "2026-01-22_008.png"
+            },
+            {
+                "old": "random_files_009.png",
+                "new": "2026-01-22_009.png"
+            },
+            {
+                "old": "random_files_010.jpg",
+                "new": "2026-01-22_010.jpg"
+            },
+            {
+                "old": "random_files_011.jpg",
+                "new": "2026-01-22_011.jpg"
+            },
+            {
+                "old": "random_files_012.jpg",
+                "new": "2026-01-22_012.jpg"
+            },
+            {
+                "old": "random_files_013.png",
+                "new": "2026-01-22_013.png"
+            },
+            {
+                "old": "random_files_014.jpg",
+                "new": "2026-01-22_014.jpg"
+            },
+            {
+                "old": "random_files_015.jpg",
+                "new": "2026-01-22_015.jpg"
+            },
+            {
+                "old": "random_files_016.jpg",
+                "new": "2026-01-22_016.jpg"
+            },
+            {
+                "old": "random_files_017.png",
+                "new": "2026-01-22_017.png"
+            },
+            {
+                "old": "random_files_018.png",
+                "new": "2026-01-22_018.png"
+            },
+            {
+                "old": "random_files_019.png",
+                "new": "2026-01-22_019.png"
+            },
+            {
+                "old": "random_files_020.png",
+                "new": "2026-01-22_020.png"
+            },
+            {
+                "old": "random_files_021.jpg",
+                "new": "2026-01-22_021.jpg"
+            },
+            {
+                "old": "random_files_022.png",
+                "new": "2026-01-22_022.png"
+            }
+        ]
+    }
+]
